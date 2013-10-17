@@ -31,6 +31,7 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+	cout << "Fyrsta lina i main fallinu, Hi world! kv Daniel Thor G"
 	int val;
 	do
 	{
